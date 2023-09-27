@@ -1,0 +1,14 @@
+div{
+    background-color: yellow;
+    width: 50%;
+    margin: auto ;
+    margin-top: 60px;
+    padding: 20px;
+    text-shadow: 3px 3px 10px black;
+    border: 10px solid black;
+    box-shadow: 0px 0px 20px blue;
+    border-radius: 20px;
+    /* border-top: 10px;
+    border-color: black;
+    border-style: groove; */
+}
